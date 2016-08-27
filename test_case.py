@@ -19,4 +19,5 @@ def print_zhong(*args,**kwargs):
 print_zhong(1,2,3,name='laoyan',gender='man')
 print print_zhong.__doc__
 print print_zhong.__name__
+print 'wo de shen a'
 
